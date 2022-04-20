@@ -1,2 +1,7 @@
 gym
 pygame
+ipython
+gym-super-mario-bros
+torch
+torchvision
+matplotlib
